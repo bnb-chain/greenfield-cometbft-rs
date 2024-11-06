@@ -42,7 +42,6 @@ cometbft-light-client-verifier = { version = "0.1.0-alpha.2", path = "../light-c
 contracts = { version = "0.6.2", default-features = false }
 crossbeam-channel = { version = "0.5.11", default-features = false, features = ["std"] }
 derive_more = { version = "0.99.5", default-features = false, features = ["display"] }
-futures = { version = "0.3.4", default-features = false }
 serde = { version = "1.0.106", default-features = false }
 serde_cbor = { version = "0.11.1", default-features = false, features = ["alloc", "std"] }
 serde_derive = { version = "1.0.106", default-features = false }
